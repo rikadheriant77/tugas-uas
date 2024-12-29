@@ -1,2 +1,3 @@
 # tugas-uas
-implementasi project Arduino
+
+Sistem Kontrol LED dengan Sensor Cahaya
